@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="description" content="Homepage Bremer Windsurfing Club, Bremen, Germany">
+<meta name="keywords" content="Windsurfing Club Bremen Unisee">
+<meta name="author" content="Prof. Dr. Hans-Christian Waldmann">
+<meta name="robots" content="index">
+<title>Bremer Windsurfing Club Bremen</title>
+<link rel="stylesheet" type="text/css" href="../styles/bcw001.css">
+</head>
+<body>
+<br>
+
+
+
+
+
+<!--#include virtual="../include/pages_header.inc" -->
+
+<br>
+<img src="../gif/redarrow.gif" width=12px>&nbsp; 
+<a href="https://easyverein.com/public/BWCeV/applicationform/">Beitrittsformular  </a><br><br>
+<img src="../gif/redarrow.gif" width=12px>&nbsp; <a href="../pdf/ordnung.pdf">Vereinsordnung </a><br><br>
+
+<br><img src="../gif/redarrow.gif" width=12px>&nbsp; 
+Vorstellung des BWC als Video!<br><hr>
+<br><center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rav1hVBtIHE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</center>
+<br><br>
+<!--#include virtual="../include/pages_closer.inc" -->
+
+
+</body>
+</html>
+

@@ -1,0 +1,162 @@
+<!--
+
+body {
+font-family:corbel,calibri,cambria,sans-serif,helvetica;
+font-size:10pt   
+font-weight:normal;
+margin:0 2%;
+font-style:normal;
+font-variant:normal;
+
+background-color:#ffffff;
+background-image:url(../gif/schatten4.jpg);
+background-repeat:repeat-y;
+background-position:center center;
+
+
+background-image:url(../gif/bg_wasser_05.jpg);
+
+
+line-height:12pt;
+color:#000000;
+text-decoration:none;
+white-space:normal;
+text-align:normal;
+vertical-align:top;
+}
+
+
+
+ol        { list-style-type:decimal;
+            list-style-position:outside;
+          }
+
+
+ul        { list-style-type:disc;
+            list-style-position:outside;
+            list-style-image:url(../gif/greyball.gif);
+          }
+
+
+ul.pfeil  { list-style-type:disc;
+            list-style-position:outside;
+            list-style-image:url(../gif/redarrow.gif);
+          }
+
+table     { background-color:#ffffff; 
+            border-style:none;   
+            border-width:0px; 
+            border-collapse:separate;
+            caption-side:top;
+            empty-cells:show;
+            border-spacing:4px;
+            table-layout:auto;
+          }
+
+tr, td    { line-height:12pt;
+            font-family:corbel,calibri,sans-serif,helvetica;
+            font-size:10pt;
+            background-color:#ffffff;
+            color:#000000;
+            border-width:0;
+            border-style:solid;
+            margin:4px   ;  
+            padding:4px   ; 
+           }
+
+ td.trans   {
+            background-color:#ffffff;
+            color:#111111;
+           }
+
+ td.mittel {
+            background-color:#aaaaaa;
+            color:#222222;
+           }
+
+ td.hell   {
+            background-color:#dddddd;
+            color:#000000;
+           }
+
+
+ td.dunkel {  
+            background-color:#777777;
+            color:#ffffff;
+           }
+
+ td.normal {  
+            background-color:#cccccc;
+            color:#111111;
+           }
+ tr.trans   {
+            background-color:#ffffff;
+            color:#111111;
+           }
+
+ tr.mittel {
+            background-color:#aaaaaa;
+            color:#222222;
+           }
+
+ tr.hell   {
+            background-color:#dddddd;
+            color:#000000;
+           }
+
+
+ tr.dunkel {  
+            background-color:#777777;
+            color:#ffffff;
+           }
+
+ tr.normal {  
+            background-color:#cccccc;
+            color:#111111;
+           }
+
+
+
+
+
+.inhalt  { margin:0;
+        padding 5em 5em 5em 5em;
+      }
+
+.inhalt p { margin:0;
+		 padding:18;
+          }
+
+
+naitem {color:blue; font-style:italic;}
+.naitem {color:blue; font-style:italic;}
+..naitem {color:blue; font-style:italic;}
+
+
+a:link    { color:#772222; text-decoration:none; }
+a:visited { color:#aa3333;text-decoration:none;  }
+a:hover   { color:#ee2222;text-decoration:none;  }
+
+td a:link    { color:#550000;text-decoration:none;  }
+td a:visited { color:#442222;text-decoration:none;  }
+td a:hover   { color:#dd2222;text-decoration:none;  }
+
+td.dunkel a:link    { color:#ff8800;text-decoration:none;  }
+td.dunkel a:visited { color:#dd9900;text-decoration:none;  }
+td.dunkel a:hover   { color:#ffff00;text-decoration:none;  }
+
+td.hell   a:link    { color:#330000;text-decoration:none;  }
+td.hell   a:visited { color:#552222;text-decoration:none;  }
+td.hell   a:hover   { color:#dd2222;text-decoration:none;  }
+
+td.mittel a:link    { color:#772222;text-decoration:none;  }
+td.mittel a:visited { color:#552222;text-decoration:none;  }
+td.mittel a:hover   { color:#ee2222;text-decoration:none;  }
+
+td.normal a:link    { color:#772222;text-decoration:none;  }
+td.normal a:visited { color:#aa3333;text-decoration:none;  }
+td.normal a:hover   { color:#ee2222;text-decoration:none;  }
+
+
+
+  -->

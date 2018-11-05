@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="description" content="Homepage Bremer Windsurfing Club, Bremen, Germany">
+<meta name="keywords" content="Windsurfing Club Bremen Unisee">
+<meta name="author" content="Prof. Dr. Hans-Christian Waldmann">
+<meta name="robots" content="index">
+<title>Bremer Windsurfing Club Bremen</title>
+<link rel="stylesheet" type="text/css" href="../styles/bcw001.css">
+</head>
+<body>
+<br>
+
+
+
+<!--#include virtual="../include/pages_header.inc" -->
+
+<br><br>
+
+
+<center>
+<table style="width:600">
+<tr>
+<td class="trans" valign=top><img src="../gif/greyarrow.gif" width=12px>&nbsp;<a href="ds2012/index.html" target=_NEW>D&uuml;mmer See 2012</a><br></td>
+<td class="trans" valign=top><img src="../gif/greyarrow.gif" width=12px>&nbsp;<a href="sf2013/index.html"  target=_NEW>Sommerfest 2013</a><br></td>
+<td class="trans" valign=top><img src="../gif/greyarrow.gif" width=12px>&nbsp;<a href="ad2013/index.html"  target=_NEW>Arbeitsdienst 2013</a><br></td>
+</tr><tr>
+<td class="trans" valign=top><img src="../gif/greyarrow.gif" width=12px>&nbsp;<a href="sb2013/index.html"  target=_NEW>Sahlenburg  2013</a><br></td>
+<td class="trans" valign=top><img src="../gif/greyarrow.gif" width=12px>&nbsp;<a href="esg2013/index.html" target=_NEW>ESG-Schulung 2013</a><br></td>
+<td class="trans" valign=top><img src="../gif/greyarrow.gif"  width=12px>&nbsp;<a href="ad2014/index.html" target=_NEW>Arbeitsdienst 2014</a><br></td>
+</tr>
+</tr><tr>
+<td class="trans" valign=top><img src="../gif/greyarrow.gif" width=12px>&nbsp;<a href="ad0102016/index.html"  target=_NEW>Arbeitsdienst 03/2016</a><br></td>
+<td class="trans" valign=top><br></td>
+<td class="trans" valign=top><br></td>
+</tr>
+
+</table>
+</center>
+
+
+<br><br>
+<!--#include virtual="../include/pages_closer.inc" -->
+
+
+
+</body>
+</html>

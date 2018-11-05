@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="description" content="Homepage Bremer Windsurfing Club, Bremen, Germany">
+<meta name="keywords" content="Windsurfing Club Bremen Unisee">
+<meta name="author" content="Prof. Dr. Hans-Christian Waldmann">
+<meta name="robots" content="index">
+<title>Bremer Windsurfing Club Bremen</title>
+<link rel="stylesheet" type="text/css" href="../styles/bcw001.css">
+</head>
+<body>
+<br>
+
+
+
+
+
+<!--#include virtual="../include/pages_header.inc" -->
+
+
+
+<br>
+
+
+<img src="../gif/redarrow.gif" width=12px>&nbsp; <a href="../pdf/ordnung.pdf">Vereinsordnung </a><br><br>
+<br>
+<img src="../gif/redarrow.gif" width=12px>&nbsp; <a href="../pdf/regeln_allg.pdf">Allgemeine Surfregeln (Vorfahrt, etc.) </a><br><br>
+<br>
+<img src="../gif/redarrow.gif" width=12px>&nbsp; <a href="../pdf/regeln_not.pdf">Verhalten im Notfall                   </a><br><br>
+<br>
+<img src="../gif/redarrow.gif" width=12px>&nbsp; <a href="../pdf/regeln_mat.pdf">Wie kommt das Material ans Wasser ? </a><br><br>
+
+
+
+
+
+
+
+
+
+<!--#include virtual="../include/pages_closer.inc" -->
+
+
+</body>
+</html>
+

@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="description" content="Homepage Bremer Windsurfing Club, Bremen, Germany">
+<meta name="keywords" content="Windsurfing Club Bremen Unisee">
+<meta name="author" content="Prof. Dr. Hans-Christian Waldmann">
+<meta name="robots" content="index">
+<title>Bremer Windsurfing Club Bremen</title>
+<link rel="stylesheet" type="text/css" href="../styles/bcw001.css">
+</head>
+<body>
+<br>
+
+
+<!--#include virtual="../include/pages_header.inc" -->
+
+
+
+<br><br>
+<table>
+<tr>
+<td colspan=7 class="trans"><b>Vorstand</b><br><hr noshade></td>
+
+</tr><tr>
+<td valign=top align=left class="trans" style="width:120px">
+     <b> 1. Vorsitzender</b>
+     <br>
+     <img src="../gif/greyarrow.gif" width=12px>&nbsp;<a href="../pages/impressum.shtml">Impressum</a>
+</td>
+<td valign=top align=left class="trans" style="width:200px">
+     <b> Torsten Standhartinger   </b>
+     <br><a href="mailto:torsten.standhartinger@bremerwindsurfing.de">(mail)</a>
+</td>
+<td valign=top align=left  class="trans" style="width:100px">
+    <img src="../gif/vors02.jpg" width=90px >
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ </td>
+ <td class="trans">&nbsp;</td>
+<td valign=top align=left class="trans" style="width:120px">
+     <b> 2. Vorsitzender</b>
+</td>
+<td valign=top align=left class="trans" style="width:135px">
+     <b> Kai Hansen </b>
+     &nbsp; <a href="mailto:kai.hansen@bremerwindsurfing.de">(mail)</a>
+</td>
+<td valign=top align=right class="trans" style="width:100px">
+    &nbsp; 
+ </td>
+</tr>
+</tr><tr>
+<td valign=top align=left class="trans" >
+     <b> Kassenwarte      </b>
+     <br>
+</td>
+
+<td valign=top align=left class="trans" >
+  <b> Isaac Puch Rojo</b>
+     &nbsp; <a href="mailto:kassenwart@bremerwindsurfing.de">(mail)</a>
+    <br> <b> Christoph Dahse</b>
+     &nbsp;<a href="mailto:kassenwart@bremerwindsurfing.de">(mail)</a>
+
+</td>
+<td valign=top align=right  class="trans" >
+ </td>
+ <td class="trans">&nbsp;</td>
+<td valign=top align=left class="trans">
+     <b> Schriftf&uuml;hrer</b>
+</td>
+<td valign=top align=left class="trans" >
+     <b> N.N.        </b> &nbsp; 
+     <a href="mailto:schriftfuehrer@bremerwindsurfing.de">(mail)</a>
+</td>
+<td valign=top align=right class="trans">
+ </td>
+</tr>
+<tr>
+<td colspan=7 class="trans"><b><br><br>Erweiterter Vorstand</b><br></td>
+</tr><tr>
+<td valign=top align=left class="trans" >
+     Arbeitsdienstleiter      
+</td>
+<td valign=top align=left colspan=2 class="trans" >
+    Dirk Hedeke 
+     <br>                                                                
+</td>
+ <td class="trans">&nbsp;</td>
+<td valign=top align=left class="trans" >
+     Materialwart
+</td>
+<td valign=top align=left colspan=2 class="trans" >
+     <i>unbesetzt</i>
+    </td>
+</tr>
+<tr>
+<td valign=top align=left class="trans" >
+     Webmaster       
+</td>
+<td valign=top align=left colspan=2 class="trans" >
+     Hans-Christian Waldmann
+     <br><a href="mailto:admin@bremerwindsurfing.de">(mail)</a>
+</td>
+ <td class="trans">&nbsp;</td>
+<td valign=top align=left class="trans" >
+Platzwart<br><br><br>
+     <i>   Sammel-email:  </i>
+</td>
+
+<td valign=top align=left class="trans" colspan=2 >
+Anja Lieke
+
+<br>
+
+<br><br>
+     <img src="../gif/redarrow.gif" width=12px>&nbsp;<a href="mailto:info@bremerwindsurfing.de">info@bremerwindsurfing.de </a>            </b>
+
+</td>
+</tr>
+</table>
+
+<br>
+<!--#include virtual="../include/pages_closer.inc" -->
+
+
+</body>
+</html>

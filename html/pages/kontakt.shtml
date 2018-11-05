@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="description" content="Homepage Bremer Windsurfing Club, Bremen, Germany">
+<meta name="keywords" content="Windsurfing Club Bremen Unisee">
+<meta name="author" content="Prof. Dr. Hans-Christian Waldmann">
+<meta name="robots" content="index">
+<title>Bremer Windsurfing Club Bremen</title>
+<link rel="stylesheet" type="text/css" href="../styles/bcw001.css">
+</head>
+<body>
+<br>
+
+
+<!--#include virtual="../include/pages_header.inc" -->
+
+
+
+<br>
+
+Am Freitag und am Wochenende ist die beste Zeit um auf dem BWC-Gel&auml;nde jemandem vom Vorstand zu treffen und
+pers&ouml;nlich anzusprechen. Einfacher ist es die Anfragen und Anliegen an den Windsurfverein per Mail an <img src="../gif/greyarrow.gif" width=12px >
+<a href="mailto:vorstand@bremerwindsurfing.de"> vorstand@bremerwindsurfing.de</a> zu schreiben. Die Mails werden dann zeitnah vom Vorstand beantwortet.
+<br><br>
+
+<u><b>Aktuelles</b></u><br>
+<b>16.01.2018</b><br>
+Uns fehlt von einigen Neumitgliedern der Aufnahmeantrag. Ihr k&ouml;nnt über eure Schl&uuml;sselnummer nachsehen wer gemeint ist.
+Bitte mit dem Vorstand in Verbindung setzen <img src="../gif/greyarrow.gif" width=12px > <a href="mailto:info@bremerwindsurfing.de">(mail)</a> .
+Der BWC wird die Schl&uuml;ssel am System sperren.<br>
+ 
+<table><tr>
+<td Vorname</td><td Schl&uuml;ssel-Nummer</td></tr>
+<tr><td>Andreas </td><td>101088</td></tr>
+<tr><td>Thomas  </td><td>101089</td></tr>
+<tr><td>Sabrina    </td><td>101093</td></tr>
+<tr><td>Michael  </td><td>101033 </td></tr>
+</table>
+
+<br><br>
+<!--#include virtual="../include/pages_closer.inc" -->
+
+</body>
+</html>
